@@ -5,6 +5,8 @@ This repository is useful for beginners who likes to play with numbers by coding
 I have used JAVA programming language to write the programs and wanted to share it with you people.
 
 I have solved the following kind of numbers:
+
+How to find whether the given number is : 
 - Armstrong Number
 - AutoBiography Number
 - ATM
